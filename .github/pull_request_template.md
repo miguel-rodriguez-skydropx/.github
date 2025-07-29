@@ -1,7 +1,7 @@
 ## Github Issue
 
 - [ ] **Github Issue:** [Github Issue Link or Number] 
-   - If no Jira ticket is provided, explain why below. **Note:** This is an exceptional situation and might indicate a deviation from the standard process. Please consult with your lead.
+   - If no Github ticket issue is provided, explain why below. **Note:** This is an exceptional situation and might indicate a deviation from the standard process. Please consult with your lead.
 
    **Explanation (if no ticket provided):**
    [Provide your explanation here]
