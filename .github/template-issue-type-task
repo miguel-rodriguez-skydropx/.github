@@ -1,0 +1,70 @@
+---
+name: Template issue type task
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+## :memo: Descripción
+
+Describir en qué consiste esta actividad – ¿qué se quiere lograr? ¿para qué?
+
+---
+
+## ✅ Criterios de aceptación
+
+Describir qué criterios se deben cumplir para asegurar que la tarea es exitosa
+
+---
+
+## :information_source: Características técnicas para despliegue:
+
+
+- [ ] Necesita configuración de variables de entorno  
+- [ ] Implica Migración  
+
+---
+
+## :warning: Pasos para replicar pruebas:
+
+Desplegar cada sección y seleccionar y diligenciar lo que aplique
+
+- [ ] Aplica pruebas por parte de QA? (Ej: Escenarios a probar, Pruebas de sanidad)
+**Por favor marcar si aplican pruebas, de lo contrario justificar:**
+---
+
+<details>
+<summary>:test_tube: Escenario de prueba 1 - Indicar el título del escenario</summary>
+
+**Descripción:**  
+Describir brevemente el objetivo de este escenario de prueba.
+
+**Pasos para reproducir:**
+1. Paso uno
+2. Paso dos
+3. Paso tres
+
+**Resultado esperado:**  
+Describir qué resultado se espera obtener al finalizar la prueba.
+
+</details>
+
+---
+
+<details>
+<summary>:test_tube: Escenario de prueba 2 - Indicar el título del escenario</summary>
+
+**Descripción:**  
+Describir brevemente el objetivo de este escenario de prueba.
+
+**Pasos para reproducir:**
+1. Paso uno
+2. Paso dos
+3. Paso tres
+
+**Resultado esperado:**  
+Describir qué resultado se espera obtener al finalizar la prueba.
+
+</details>
